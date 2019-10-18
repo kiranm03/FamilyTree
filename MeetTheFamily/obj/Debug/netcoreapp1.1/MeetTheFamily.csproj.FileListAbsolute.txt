@@ -1,0 +1,9 @@
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily\bin\Debug\netcoreapp1.1\MeetTheFamily.deps.json
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily\bin\Debug\netcoreapp1.1\MeetTheFamily.runtimeconfig.json
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily\bin\Debug\netcoreapp1.1\MeetTheFamily.runtimeconfig.dev.json
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily\bin\Debug\netcoreapp1.1\MeetTheFamily.dll
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily\bin\Debug\netcoreapp1.1\MeetTheFamily.pdb
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily\obj\Debug\netcoreapp1.1\MeetTheFamily.AssemblyInfo.cs
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily\obj\Debug\netcoreapp1.1\MeetTheFamily.dll
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily\obj\Debug\netcoreapp1.1\MeetTheFamily.pdb
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily\obj\Debug\netcoreapp1.1\MeetTheFamily.csprojResolveAssemblyReference.cache

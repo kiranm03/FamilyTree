@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <!--<ItemGroup>
+    <Compile Remove="Factory\IProcessor.cs" />
+    <Compile Remove="Model\Child.cs" />
+    <Compile Remove="Model\Daughter.cs" />
+    <Compile Remove="Model\IRelation.cs" />
+    <Compile Remove="Model\Relations.cs" />
+    <Compile Remove="Model\Sibling.cs" />
+    <Compile Remove="Model\Son.cs" />
+    <Compile Remove="Processor\Processor.cs" />
+  </ItemGroup>-->
+
+  <!--<ItemGroup>
+    <Compile Include="Factory\IProcessorFactory.cs" />
+    <Compile Include="Factory\IProcessorWrapper.cs" />
+  </ItemGroup>-->
+
+</Project>

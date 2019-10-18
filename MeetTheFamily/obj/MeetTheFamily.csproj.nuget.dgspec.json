@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\MeetTheFamily.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\MeetTheFamily.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\MeetTheFamily.csproj",
+        "projectName": "MeetTheFamily",
+        "projectPath": "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\MeetTheFamily.csproj",
+        "packagesPath": "C:\\Users\\KMandalapu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KMandalapu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

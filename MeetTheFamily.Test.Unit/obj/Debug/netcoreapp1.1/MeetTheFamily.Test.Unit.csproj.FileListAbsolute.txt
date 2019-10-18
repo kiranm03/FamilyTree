@@ -1,0 +1,14 @@
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\bin\Debug\netcoreapp1.1\MeetTheFamily.Test.Unit.deps.json
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\bin\Debug\netcoreapp1.1\MeetTheFamily.Test.Unit.runtimeconfig.json
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\bin\Debug\netcoreapp1.1\MeetTheFamily.Test.Unit.runtimeconfig.dev.json
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\bin\Debug\netcoreapp1.1\MeetTheFamily.Test.Unit.dll
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\bin\Debug\netcoreapp1.1\MeetTheFamily.Test.Unit.pdb
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\bin\Debug\netcoreapp1.1\MeetTheFamily.dll
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\bin\Debug\netcoreapp1.1\MeetTheFamily.pdb
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\obj\Debug\netcoreapp1.1\MeetTheFamily.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\obj\Debug\netcoreapp1.1\MeetTheFamily.Test.Unit.AssemblyInfo.cs
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\obj\Debug\netcoreapp1.1\MeetTheFamily.Test.Unit.dll
+C:\Projects\Coding Challenges\Lexicon\MeetTheFamily\MeetTheFamily.Test.Unit\obj\Debug\netcoreapp1.1\MeetTheFamily.Test.Unit.pdb

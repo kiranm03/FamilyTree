@@ -1,0 +1,4 @@
+ADD_CHILD Luna Lola Female
+ADD_CHILD Luna Lola Female
+ADD_CHILD Luna Lola Female
+GET_RELATIONSHIP Lola Mother

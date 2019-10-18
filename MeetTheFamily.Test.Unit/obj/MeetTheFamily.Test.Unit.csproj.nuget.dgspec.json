@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily.Test.Unit\\MeetTheFamily.Test.Unit.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily.Test.Unit\\MeetTheFamily.Test.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily.Test.Unit\\MeetTheFamily.Test.Unit.csproj",
+        "projectName": "MeetTheFamily.Test.Unit",
+        "projectPath": "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily.Test.Unit\\MeetTheFamily.Test.Unit.csproj",
+        "packagesPath": "C:\\Users\\KMandalapu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily.Test.Unit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KMandalapu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {
+              "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\MeetTheFamily.csproj": {
+                "projectPath": "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\MeetTheFamily.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.1.11, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.1.11, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\MeetTheFamily.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\MeetTheFamily.csproj",
+        "projectName": "MeetTheFamily",
+        "projectPath": "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\MeetTheFamily.csproj",
+        "packagesPath": "C:\\Users\\KMandalapu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Coding Challenges\\Lexicon\\MeetTheFamily\\MeetTheFamily\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KMandalapu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
